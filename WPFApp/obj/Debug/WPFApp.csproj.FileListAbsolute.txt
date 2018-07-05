@@ -1,0 +1,15 @@
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\bin\Debug\WPFApp.exe.config
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\bin\Debug\WPFApp.exe
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\bin\Debug\WPFApp.pdb
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\obj\Debug\WPFApp.csprojAssemblyReference.cache
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\obj\Debug\App.g.cs
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\obj\Debug\MainWindow.baml
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\obj\Debug\WPFApp.g.resources
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\obj\Debug\WPFApp.csproj.CoreCompileInputs.cache
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\obj\Debug\WPFApp.exe
+C:\Users\Toshee\Desktop\WPF\WPFApp\WPFApp\obj\Debug\WPFApp.pdb
